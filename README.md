@@ -10,7 +10,7 @@ Headers:
 Body: Any valid JSON Object
 
 ### Execution guide:
-Create a virtual environment
+Create a virtual environment <br>
 Pip install the following dependencies: 
 ```
 Django rest framework, bcrypt
