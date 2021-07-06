@@ -13,7 +13,7 @@ Body: Any valid JSON Object
 Create a virtual environment <br>
 Pip install the following dependencies: 
 ```
-Django rest framework, bcrypt
+Django, Django cors headers , Django rest framework, bcrypt
 ```
 After installation of the dependencies, run the following command to run the server:
 ```
